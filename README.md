@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bemregirit
 - 👀 I’m interested in Naval Architecture, Robotics and coding
-- 🌱 I’m currently learning CAD and
+- 🌱 I’m currently learning CAD 
 - 📫 How to reach me bilalemregirit@gmail.com
 
 <!---
